@@ -1,12 +1,30 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+Monkey Run
 ------------------------------------------------------------------------
+VERSION: 1.0
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+DATE:  November, 2017
+
+------------------------------------------------------------------------
+Compile Instruction:
+------------------------------------------------------------------------
+1. Clone/download the project.
+2. Open project.greenfoot under Project - Monkey Run folder
+3. Click run in the Greenfoot IDE to run the game.
+
+------------------------------------------------------------------------
+Game Instruction:
+------------------------------------------------------------------------
+Use left & right arrows to move around, up arrow to jump
+
+Click on any objects you want to shoot on
+
+Be careful with the darts and traps jump over or shoot them
+
+Each protection will protect you for 20 seconds
+
+100 points to win
+
+Good Luck
+
+
