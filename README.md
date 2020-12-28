@@ -1,20 +1,14 @@
-------------------------------------------------------------------------
-Monkey Run
-------------------------------------------------------------------------
-VERSION: 1.0
 
-DATE:  November, 2017
+# Monkey Run
+### Version: 1.0
+### Date:  November, 2017
 
-------------------------------------------------------------------------
-Compile Instruction:
-------------------------------------------------------------------------
+## Compile Instruction:
 1. Clone/download the project.
 2. Open project.greenfoot under Project - Monkey Run folder
 3. Click run in the Greenfoot IDE to run the game.
 
-------------------------------------------------------------------------
-Game Instruction:
-------------------------------------------------------------------------
+## Game Instruction:
 Use left & right arrows to move around, up arrow to jump
 
 Click on any objects you want to shoot on
