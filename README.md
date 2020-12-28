@@ -21,5 +21,5 @@ Each protection will protect you for 20 seconds
 
 Good Luck
 
-## Click for demo:
+### Click image for demo:
 [![](http://img.youtube.com/vi/WWZQ8VqWAhM/0.jpg)](http://www.youtube.com/watch?v=WWZQ8VqWAhM "")
