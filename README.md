@@ -5,7 +5,7 @@
 
 ## Compile Instruction:
 1. Clone/download the project.
-2. Open project.greenfoot under Project - Monkey Run folder
+2. Open the "project.greenfoot" file under the "Project - Monkey Run" folder
 3. Click run in the Greenfoot IDE to run the game.
 
 ## Game Instruction:
